@@ -11,10 +11,11 @@ application using a Java server (Jetty). WebRTC based video conference applicati
 - Run project.
 
 ### Project Architecture
-- Netbeans.
 - Google WebRTC.
 - Websocket.
-- Wildfly.
+
+- IDE: Netbeans.
+- Server: Wildfly.
 
 >Dashboard Page
  ----
