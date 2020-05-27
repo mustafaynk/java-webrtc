@@ -21,6 +21,6 @@ application using a Java server (Jetty). WebRTC based video conference applicati
  ----
  ![Dashboard Page](https://github.com/mustafaynk/java-webrtc/blob/master/dashboard.PNG?raw=true)
 
-# Thank You, joelbars
+# Thank You, @joelbars
 
 > Open Source, It's My Life!
